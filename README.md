@@ -1,6 +1,7 @@
 # Aviation-Carbon-Tracker-Homelab
 
 ![Project Dashboard and SQL Environment](assets/image.png)
+*Architecture overview: Live Flask dashboard integrated with a MySQL backend on a Windows Server 2022 environment.*
 
 "A real-time data pipeline and analytics dashboard hosted on a Windows Server/Active Directory environment."
 Overview
