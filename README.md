@@ -25,3 +25,10 @@ Unlike a standard web app, this is hosted in a Bridged Networking environment wi
     Active Directory: Integrated domain services for server management.
 
     Networking: Configured static IPs and firewall rules to allow mobile access on the local network.
+
+
+## Local Setup
+1. **Database:** Execute `sql/schema.sql` to initialize the MySQL tables.
+2. **Environment:** Replace placeholders in `src/` files with your OpenSky and DB credentials.
+3. **Seed Data:** Run `python src/update_all_61.py` to populate the fleet registry.
+4. **Launch:** Run `python src/app.py` and navigate to `localhost:5000`.
