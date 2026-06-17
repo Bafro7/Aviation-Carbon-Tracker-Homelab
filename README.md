@@ -2,8 +2,11 @@
 
 A real-time flight tracking and carbon emissions dashboard hosted on a self-managed Windows Server 2022 homelab environment with Active Directory integration.
 
-![Project Dashboard](assets/dashboard.png)
-![Updated Dashboard](assets/6_16_flight_tracker.png)
+![Homelab Infrastructure](assets/dashboard.png)
+*Windows Server 2022 VM showing Task Scheduler automation, daily pipeline logs, project files, and live MySQL flight data.*
+
+![Live Dashboard](assets/6_16_flight_tracker.png)
+*SkyWatch Live — real-time aircraft map with carbon emissions leaderboard and scale comparison panel.*
 
 ---
 
