@@ -1,7 +1,7 @@
 # Aviation-Carbon-Tracker-Homelab
 
 ![Project Dashboard and SQL Environment](assets/image.png)
-(assets/6_16_flight_tracker.png)
+![Updated Project Dashboard](assets/6_16_flight_tracker.png)
 
 *Architecture overview: Live Flask dashboard integrated with a MySQL backend on a Windows Server 2022 environment.*
 
